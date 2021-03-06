@@ -19,4 +19,11 @@ ZCZC W00 5 L03 Github related
 ZCZC W01 115 L02 ZOOM: Monday 1 March 2021, 10.00 - 11.55
 ZCZC W01 20 L05 GSGS related for PopQuiz Thursday 4 March 2021
 ZCZC W01 300 L11 Assignment #1: Download Debian, Virtual Box, Extension pack, Create or Import Debian Guest on Virtual Box (Include need to Reboot Computer to enable SVM Model)
+ZCZC W01 60 L12 Assignment #2: Learning and Watching some tutorial about Linux Commands. Read some most used Linux Commands and learn about regex and test it in website regex tester
+ZCZC W01 60 L13 Assignment #3: Try some essential commands from the slide and learn about the vi editor with the commands and also watch a youtube video about vim basics
+ZCZC W01 30 L14 Assignment #4: Create .bash_aliases in my home directory and test it and try to use the vi commands in .bash_aliases 
 ZCZC W01 60 L15 Assignment #5: Until Cloning my Repo and Fasilkom REPO
+ZCZC W01 10 L16 Assignment #6: Update mylog.txt from vi and also git add, commit, pull, and push
+ZCZC W01 100 L17 Assignment #7: Add some links that I've used before for W01'assignment and also helpful for me and trying to find other links that interesting to open and find other links that contain full of documentation or information about Linux commands, grep, regex, sed, and awk. Find other links from my friends github page 
+ZCZC W01 15 L18 Assignment #8: Learn and Read from the slide
+ZCZC W01 10 L03 Github related: Update mylog.txt from my activity about finishing the assignment of week 0l 
