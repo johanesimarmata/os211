@@ -1,5 +1,5 @@
 # os211
-### Operating Systems 2021-1 (Semester Genap 2020/2021)
+### Operating Systems 2021-1 (Semester Genap 2020/2021) - Johanes Marihot Perkasa Simarmata
 [Repository](https://github.com/johanesimarmata/os211)
 
 [Page](https://johanesimarmata.github.io/os211/)
