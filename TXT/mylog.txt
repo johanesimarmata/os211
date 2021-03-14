@@ -32,4 +32,7 @@ ZCZC W02 20 L11 Assignment #1: Read Slide
 ZCZC W02 20 L13 Assignment #3: Generat GnuPG Key Pair
 ZCZC W02 15 L14 Assignment #4: Import public key
 ZCZC W02 10 L15 Assignment #5: Export Public Key
-ZCZC W02 20 L16 Assignment #6: Top 3 of 10 next closest neighbors 
+ZCZC W02 20 L16 Assignment #6: Top 3 of 10 next closest neighbors
+ZCZC W02 10 L18 Assignment #8: Copy bash script
+ZCZC W02 10 L19 Assignment #9: Update mylog.txt
+ZCZC W02 5 L20 Assignment #10: Make SHA256SUM and sign it 
