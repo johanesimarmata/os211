@@ -38,4 +38,5 @@ ZCZC W02 10 L19 Assignment #9: Update mylog.txt
 ZCZC W02 5 L20 Assignment #10: Make SHA256SUM and sign it
 ZCZC W02 75 L17 Assignment #7: Top 10 List of Week 02
 ZCZC W02 30 L12 Assignment #2: C Program
-ZCZC W02 5 L19 Assignment #9: Update mylog.txt v2 
+ZCZC W02 5 L19 Assignment #9: Update mylog.txt v2
+ZCZC W02 5 L18 Assignment #8: Update myscript.sh
