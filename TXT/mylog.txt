@@ -40,3 +40,4 @@ ZCZC W02 75 L17 Assignment #7: Top 10 List of Week 02
 ZCZC W02 30 L12 Assignment #2: C Program
 ZCZC W02 5 L19 Assignment #9: Update mylog.txt v2
 ZCZC W02 5 L18 Assignment #8: Update myscript.sh
+ZCZC W02 15 L05 GSGS related for Pop Quiz Tuesday 16 March 2021
