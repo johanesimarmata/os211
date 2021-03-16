@@ -12,4 +12,4 @@
 
 [Top 10 Link Lists Week 1](./w01)
 
-[Top 10 Link Lists Week 2](./w02)
+[Top 10 Link Lists Week 2](./W02)
