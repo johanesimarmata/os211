@@ -43,3 +43,6 @@ ZCZC W02 5 L18 Assignment #8: Update myscript.sh
 ZCZC W02 15 L05 GSGS related: Pop Quiz Tuesday 16 March 2021
 ZCZC W02 25 L11 Assignment #1: Continue to read slide from OSC10
 ZCZC W02 15 L05 GSGS related: Find some informations that relate with the slides
+ZCZC W02 10 L01 Scele related: Daily check for new announcements (In total for week02)
+ZCZC W02 30 L23 Discord: Check for announcements, discussion, and some questions which relate to the assignments of week02 (In total for week02)
+ZCZC W02 10 L09 AsDos: Ask some informations about week02 assignments (In total for week02)
