@@ -46,3 +46,10 @@ ZCZC W02 15 L05 GSGS related: Find some informations that relate with the slides
 ZCZC W02 10 L01 Scele related: Daily check for new announcements (In total for week02)
 ZCZC W02 30 L23 Discord: Check for announcements, discussion, and some questions which relate to the assignments of week02 (In total for week02)
 ZCZC W02 10 L09 AsDos: Ask some informations about week02 assignments (In total for week02)
+ZCZC W03 100 L02 ZOOM: Wednesday, 17 March 2021
+ZCZC W03 15 L11: Read Slides First to do the assignments
+ZCZC W03 15 L13: Check .bash_aliases is up-todate
+ZCZC W03 180 L17: Download W03.tar.bz2.asc, passphrase, W03-FUSE.txt, place into W03/ folder and tarballed as myW03.tar.bz2.asc (Plus solve the error: Need to install some packages")   
+ZCZC W03 10 L18: Check Bash Script and updated from week02
+ZCZC W03 3  L01: Check for some new announcements 
+ZCZC W03 10 L23: Check announcements, faq, general
