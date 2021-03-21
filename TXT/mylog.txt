@@ -47,9 +47,16 @@ ZCZC W02 10 L01 Scele related: Daily check for new announcements (In total for w
 ZCZC W02 30 L23 Discord: Check for announcements, discussion, and some questions which relate to the assignments of week02 (In total for week02)
 ZCZC W02 10 L09 AsDos: Ask some informations about week02 assignments (In total for week02)
 ZCZC W03 100 L02 ZOOM: Wednesday, 17 March 2021
-ZCZC W03 15 L11: Read Slides First to do the assignments
-ZCZC W03 15 L13: Check .bash_aliases is up-todate
-ZCZC W03 180 L17: Download W03.tar.bz2.asc, passphrase, W03-FUSE.txt, place into W03/ folder and tarballed as myW03.tar.bz2.asc (Plus solve the error: Need to install some packages")   
-ZCZC W03 10 L18: Check Bash Script and updated from week02
-ZCZC W03 3  L01: Check for some new announcements 
-ZCZC W03 10 L23: Check announcements, faq, general
+ZCZC W03 15 L11 Assignment #1: Read Slides First to do the assignments
+ZCZC W03 15 L13 Assignment #3: Check .bash_aliases is up-todate
+ZCZC W03 180 L17 Assignment #7: Download W03.tar.bz2.asc, passphrase, W03-FUSE.txt, place into W03/ folder and tarballed as myW03.tar.bz2.asc (Plus solve the error: Need to install some packages")   
+ZCZC W03 10 L18 Assignment #8: Check Bash Script and updated from week02
+ZCZC W03 3  L01 SCELE related: Check for some new announcements 
+ZCZC W03 10 L23 Discord: Check announcements, faq, general 
+ZCZC W03 30 L14 Assignment #4: Review my 10 next neighbors TOP 10 List and create for the top 3
+ZCZC W03 60 L15 Assignment #5: Create my top 10 link lists of week 3
+ZCZC W03 20 L12 Assignment #2: Demo
+ZCZC W03 5 L16 Assignment #6: Updating mylog.txt
+ZCZC W03 120 L11 Assignment #1: Read OSC-10 + GSGS about the topic + Watch some videos that related too
+ZCZC W03 5 L19 Assignment #9: Make SHA256SUM and sign it
+ZCZC W03 30 L05 GSGS related: Pop Quiz 18 March 2021 
