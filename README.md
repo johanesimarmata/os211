@@ -10,6 +10,8 @@
 
 [Rank](https://github.com/johanesimarmata/os211/blob/master/TXT/myrank.txt)
 
-[Top 10 Link Lists Week 1](./w01)
+[Top 10 Link Lists Week 1](./W01)
 
 [Top 10 Link Lists Week 2](./W02)
+
+[Top 10 Link Lists Week 3](./W03)
