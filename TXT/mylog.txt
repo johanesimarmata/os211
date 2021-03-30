@@ -59,4 +59,16 @@ ZCZC W03 20 L12 Assignment #2: Demo
 ZCZC W03 5 L16 Assignment #6: Updating mylog.txt
 ZCZC W03 120 L11 Assignment #1: Read OSC-10 + GSGS about the topic + Watch some videos that related too
 ZCZC W03 5 L19 Assignment #9: Make SHA256SUM and sign it
-ZCZC W03 30 L05 GSGS related: Pop Quiz 18 March 2021 
+ZCZC W03 30 L05 GSGS related: Pop Quiz 18 March 2021
+ZCZC W04 100 L02 ZOOM: Wednesday, 24 March 2021
+ZCZC W04 25 L11 Assignment #1: Read OSC-10 Chapter 9
+ZCZC W04 30 L13 Assignment #3: Review and update myrank.txt5 L01 Assignment #1: Read OSC-10 Chapter 9
+ZCZC W04 80 L14 Assignment #4: Create my top 10 list of week04
+ZCZC W04 60 L16 Assignment $6: Do W04 instruction with week04.tar
+ZCZC W04 15 L12 Assignment #2: Try some demos and compile of week04
+ZCZC W04 10 L17 Assignment #7: Check and Update myscript
+ZCZC W04 5 L18 Assignment #8: Make SHA256SUM and sign it
+ZCZC W04 20 L21 VirtualBox: PopQuiz Week04 30 March 2021
+ZCZC W04 15 L01 SCELE related: Do popquiz W04 Q01 Special and check for another announcements
+ZCZC W04 10 L23 Discord: Check text channel: general, announcements, faq
+ZCZC W04 15 L15 Assignment #5: Update mylog.txt
