@@ -72,3 +72,24 @@ ZCZC W04 20 L21 VirtualBox: PopQuiz Week04 30 March 2021
 ZCZC W04 15 L01 SCELE related: Do popquiz W04 Q01 Special and check for another announcements
 ZCZC W04 10 L23 Discord: Check text channel: general, announcements, faq
 ZCZC W04 15 L15 Assignment #5: Update mylog.txt
+ZCZC W05 30 L11 Assignment #1: Read OSC10 chapter 10
+ZCZC W05 30 L12 Assignment #2: Review Top 3 of 10 next neighbors and update myrank.txt
+ZCZC W05 90 L13 Assignment #3: Create top 10 list, gsgs, atm
+ZCZC W05 90 L14 Assignment #4: Do demo, screenshot smallest possible ram size, and other week05 stuffs
+ZCZC W05 10 L15 Assignment #5: Update my log
+ZCZC W05 5 L16 Assignment #6: make sha256sum and sign it
+ZCZC W05 75 L02 ZOOM related: 31 March 2021 10.00-11.15
+ZCZC W05 10 L01 SCELE related: Check some announcements
+ZCZC W05 15 L09 AsDos: Ask about error at week05
+ZCZC W05 60 L05 GSGS related: Popquiz w05
+ZCZC W05 10 L23 Discord: Check some announcements 
+A
+D
+D
+C
+C
+ZCZC W05 75 L02 ZOOM r
+C
+D
+ZCZ C
+ZCZC W05 75 L02 ZOOM related: 31 March 2021 10.00-11 
