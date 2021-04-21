@@ -82,4 +82,14 @@ ZCZC W05 75 L02 ZOOM related: 31 March 2021 10.00-11.15
 ZCZC W05 10 L01 SCELE related: Check some announcements
 ZCZC W05 15 L09 AsDos: Ask about error at week05
 ZCZC W05 60 L05 GSGS related: Popquiz w05
-ZCZC W05 10 L23 Discord: Check some announcements 
+ZCZC W05 10 L23 Discord: Check some announcements
+ZCZC W06 100 L02 ZOOM: Wednesday 7 April 2021
+ZCZC W06 30 L11 Assignment #1: Read OSC10
+ZCZC W06 60 L12 Assignment #2: Review 3 out of 10 next neighbors
+ZCZC W06 100 L13 Assignment #3: Create Top 10 list, gsgs, atm
+ZCZC W06 60 L14 Assignment #4: Do W06 things
+ZCZC W06 10 L15 Assignment #5: Update mylog.txt
+ZCZC W06 5 L16 Assignment #6: Make SHA256SUM and Sign it
+ZCZC W06 30 L05 GSGS related for pop quiz 21/04
+ZCZC W06 5 L01 SCELE related: check announcements
+ZCZC W06 5 L23 Discord: Read discussion and check announcement 

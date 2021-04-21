@@ -18,4 +18,6 @@
 
 [Top 10 Link Lists Week 4](./W04)
 
-[Top 10 Link Lists Week 5](./W05) 
+[Top 10 Link Lists Week 5](./W05)
+
+[Top 10 Link Lists Week 6](./W06) 
