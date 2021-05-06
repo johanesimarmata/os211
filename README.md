@@ -22,4 +22,6 @@
 
 [Top 10 Link Lists Week 6](./W06)
 
-[Top 10 Link Lists Week 7](./W07) 
+[Top 10 Link Lists Week 7](./W07)
+
+[Top 10 Link Lists Week 8](./W08) 
