@@ -100,4 +100,13 @@ ZCZC W07 30 L12 Assignment #2: Review 10 neighbors and pick 3 out of 10 also put
 ZCZC W07 90 L13 Assignment #3: GSGS and Create top 10 list also for the description
 ZCZC W07 75 L14 Assignment #4: Do W07 things
 ZCZC W07 10 L15 Assignment #5: Update mylog
-ZCZC W07 5 L16 Assignment #6: Make SHA256SUM and sign it 
+ZCZC W07 5 L16 Assignment #6: Make SHA256SUM and sign it
+ZCZC W08 100 L02 ZOOM related: 3 Mei 2021 10.00-11.40
+ZCZC W08 30 L21 VirtualBox: Do popquiz things Tuesday, 4 Mei 2021
+ZCZC W08 20 L11 Assignment #1: Read OSC10 Chapter 05
+ZCZC W08 100 L12 Assignment #2: Pick top 3 out of 10 next neighbors and Create my Top 10 List of Week08
+ZCZC W08 150 L13 Assignment #3: Linux From Scratch Chapter 1-4
+ZCZC W08 5 L14 Assignment #4: tarball
+ZCZC W08 10 L15 Assignment #5: Update my log
+ZCZC W08 5 L16 Assignment #6: SHA256SUM and sign
+ZCZC W08 30 L05 GSGS related: Popquiz 6 Mei 2021 
